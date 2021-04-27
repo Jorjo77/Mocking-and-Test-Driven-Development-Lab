@@ -6,7 +6,9 @@ namespace TheoryForMyLectures
     {
         static void Main(string[] args)
         {
-            //Каква е разликата между Dependency Injection и Dependency Inversion (много любим въпрос по интервюта)  
+            //Каква е разликата между Dependency Injection и Dependency Inversion (много любим въпрос по интервюта)   - 
+
+            //Какво е Poor man's Dependency Inversion - 
 
             //Mocking - 
         }
